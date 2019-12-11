@@ -1,2 +1,3 @@
-# bac_meetups
-Here you will find each keynote and its related material.
+# Meetups 
+
+Todo el material de las meetups lo podrás encontrar en la wiki asociada a este proyecto. 
